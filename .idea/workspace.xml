@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1ee65e0-d339-49bf-8d61-5f699fadd487" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="af15d658-3bb9-445b-bcdf-7e6bfc8334c1" name="Revert &quot;changed colors of title and button&quot;" comment="Revert &quot;changed colors of title and button&quot;&#10;&#10;This reverts commit 959ffb48" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1h05fHox9g5swQAUGvq50qFSBAc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1ee65e0-d339-49bf-8d61-5f699fadd487" name="Default Changelist" comment="" />
+      <created>1599135270696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599135270696</updated>
+      <workItem from="1599135271717" duration="46000" />
+      <workItem from="1599135357326" duration="27000" />
+      <workItem from="1599135405651" duration="58000" />
+      <workItem from="1599135469045" duration="49000" />
+      <workItem from="1599135905828" duration="831000" />
+      <workItem from="1599136743300" duration="9000" />
+      <workItem from="1599136764848" duration="12000" />
+      <workItem from="1599136786937" duration="6000" />
+      <workItem from="1599136805504" duration="302000" />
+      <workItem from="1599137116990" duration="4962000" />
+      <workItem from="1600776725666" duration="71000" />
+      <workItem from="1600776827638" duration="556000" />
+      <workItem from="1600777560902" duration="633000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed title">
+      <created>1599138069207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599138069207</updated>
+    </task>
+    <task id="LOCAL-00002" summary="enlarged logo of kiwi.com">
+      <created>1599139326634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599139326634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update the url">
+      <created>1599141605407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599141605407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed colors of title and button">
+      <created>1599142964813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599142964813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="enlarged main title on the page">
+      <created>1599144117452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144117452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed title" />
+    <MESSAGE value="enlarged logo of kiwi.com" />
+    <MESSAGE value="update the url" />
+    <MESSAGE value="changed colors of title and button" />
+    <MESSAGE value="enlarged main title on the page" />
+    <option name="LAST_COMMIT_MESSAGE" value="enlarged main title on the page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="222" key="#Web_Browsers" timestamp="1599135501176">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="510" y="222" key="#Web_Browsers/0.23.1440.827@0.23.1440.827" timestamp="1599135501176" />
+    <state x="581" y="23" width="859" height="830" key="CommitChangelistDialog2" timestamp="1599144117332">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="581" y="23" width="859" height="829" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1599139326484" />
+    <state x="581" y="23" width="859" height="830" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1599144117332" />
+    <state x="100" y="165" width="1208" height="587" key="DiffContextDialog" timestamp="1599142262516">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="100" y="165" width="1208" height="587" key="DiffContextDialog/0.23.1440.831@0.23.1440.831" timestamp="1599142262516" />
+    <state x="128" y="116" key="MergeDialog" timestamp="1599144155600">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="128" y="116" key="MergeDialog/0.23.1440.830@0.23.1440.830" timestamp="1599144155600" />
+    <state x="344" y="227" key="MultipleFileMergeDialog" timestamp="1599144155638">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="344" y="227" key="MultipleFileMergeDialog/0.23.1440.830@0.23.1440.830" timestamp="1599144155638" />
+    <state x="304" y="198" key="Vcs.Push.Dialog.v2" timestamp="1599144121151">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="304" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1599144121151" />
+    <state x="369" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1599144411452">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="369" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1599144411452" />
+  </component>
+</project>
