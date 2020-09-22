@@ -8,7 +8,7 @@ function getRandomLetters() {
     return result;
 }
 
-async function getLocation() {
+async function () {
     let response = await fetch("https://api.skypicker.com/locations?term=" + getRandomLetters() + "&location_types=airport&limit=1");
     let body = await response.json();
     let location = body.locations[0];
